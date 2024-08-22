@@ -29,5 +29,5 @@ jobs:
         name: hello-artifact
 
     - name: View the text file
-      run: ls
+      run: cat hello.txt
 
